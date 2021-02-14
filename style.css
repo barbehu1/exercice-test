@@ -1,0 +1,17 @@
+html, body {
+    overflow: hidden;
+}
+
+.container-fluid {
+    height: 100vh;
+}
+
+.col-sm {
+    text-align: center;
+}
+
+span {
+    position: relative;
+    font-size: 100px;
+    top: -5vh;
+}
